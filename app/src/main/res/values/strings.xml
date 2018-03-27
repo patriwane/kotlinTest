@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyKotlin</string>
+    <string name="second_screen">You just arrived on my second screen</string>
+</resources>
